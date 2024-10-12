@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1715046398 source:c:\users\alan\documents\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\funciones_estudiante.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"estructuras.h"
+	"constantes.h"
+	"funciones_estudiante.h"
+	<math.h>
+
+1713008564 c:\users\alan\documents\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\constantes.h
+
+1714599613 source:c:\users\alan\documents\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1715040172 c:\users\alan\documents\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1712690694 c:\users\alan\documents\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\estructuras.h
+
+1715309028 source:c:\users\erik\desktop\bmpmanipuleitor\funciones_estudiante.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"estructuras.h"
+	"constantes.h"
+	"funciones_estudiante.h"
+	<math.h>
+
+1712690694 c:\users\erik\desktop\bmpmanipuleitor\estructuras.h
+
+1713008564 c:\users\erik\desktop\bmpmanipuleitor\constantes.h
+
+1715307451 c:\users\erik\desktop\bmpmanipuleitor\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1714599613 source:c:\users\erik\desktop\bmpmanipuleitor\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1715312298 source:c:\users\nahia\downloads\bmpmanipuleitor\funciones_estudiante.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"estructuras.h"
+	"constantes.h"
+	"funciones_estudiante.h"
+	<math.h>
+
+1715309497 c:\users\nahia\downloads\bmpmanipuleitor\estructuras.h
+
+1715312298 c:\users\nahia\downloads\bmpmanipuleitor\constantes.h
+
+1715312298 c:\users\nahia\downloads\bmpmanipuleitor\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1715309498 source:c:\users\nahia\downloads\bmpmanipuleitor\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1715309500 source:f:\documetos\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\main.c
+	<stdio.h>
+	"funciones_estudiante.h"
+	"constantes.h"
+
+1715382299 f:\documetos\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1715309498 f:\documetos\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\estructuras.h
+
+1715312300 f:\documetos\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\constantes.h
+
+1715392754 source:f:\documetos\unlam\segundo año\topicos\tp_20241c_sabado\bmpmanipuleitor\funciones_estudiante.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"estructuras.h"
+	"constantes.h"
+	"funciones_estudiante.h"
+	<math.h>
+	<stdbool.h>
+
